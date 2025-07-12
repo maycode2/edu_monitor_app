@@ -1,9 +1,15 @@
-# Edu Monitor App 📚
+# Edu Monitor App: A Flutter app for monitoring teacher performance, lesson coverage, and classroom activities in schools.
+ 📚
 
 **Edu Monitor** is a Flutter-based mobile application designed for school administrators and education managers to track, monitor, and manage teaching and learning activities in real-time.
 
-## 🌟 Features
+## 📌 Problem Statement
+School administrators often struggle to monitor lesson coverage, track teacher performance, and ensure timely class reporting—especially across multiple schools or departments.
 
+## 💡 App Idea
+Edu Monitor is a Flutter app designed to centralize classroom activity reporting, lesson tracking, and performance monitoring for teachers and school heads. It provides real-time insights and simplifies education management.
+
+## 🌟 Features
 - 📊 Admin dashboard with lesson coverage and teacher performance
 - 📝 Daily lesson and activity logs by teachers
 - 📅 Class timetable tracking
